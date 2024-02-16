@@ -25,7 +25,8 @@ namespace Laba_2
             switch (action) {
             case "1":
             case "+":
-                WriteLine($"{A} + {B} = {A + B}");
+
+                WriteLine($"{A} + {B} = {Addition.Add(A, B)}");
                 break;
 
             case "2":
