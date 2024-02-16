@@ -1,0 +1,15 @@
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\bin\Debug\net7.0\Laba 2.exe
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\bin\Debug\net7.0\Laba 2.deps.json
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\bin\Debug\net7.0\Laba 2.runtimeconfig.json
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\bin\Debug\net7.0\Laba 2.dll
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\bin\Debug\net7.0\Laba 2.pdb
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\obj\Debug\net7.0\Laba 2.csproj.AssemblyReference.cache
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\obj\Debug\net7.0\Laba 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\obj\Debug\net7.0\Laba 2.AssemblyInfoInputs.cache
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\obj\Debug\net7.0\Laba 2.AssemblyInfo.cs
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\obj\Debug\net7.0\Laba 2.csproj.CoreCompileInputs.cache
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\obj\Debug\net7.0\Laba 2.dll
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\obj\Debug\net7.0\refint\Laba 2.dll
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\obj\Debug\net7.0\Laba 2.pdb
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\obj\Debug\net7.0\Laba 2.genruntimeconfig.cache
+C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\obj\Debug\net7.0\ref\Laba 2.dll
