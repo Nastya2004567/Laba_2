@@ -30,7 +30,7 @@ namespace Laba_2
 
             case "2":
             case "-":
-                WriteLine($"{A} - {B} = {A - B}");
+                WriteLine($"{A} - {B} = {Substraction(A, B)}");
                 break;
 
             case "3":
