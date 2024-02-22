@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Laba_2
-build_property.ProjectDir = C:\Users\Longren\Desktop\S\У\3 курс\(МДК 7.2) Сертификация информационных систем\Лаба 2\Laba_2\Laba 2\
+build_property.ProjectDir = C:\Users\anast\Downloads\Репетиторство\Laba_2-1\Laba 2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
